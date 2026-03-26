@@ -16,7 +16,7 @@ La aplicación funciona completamente en el navegador, sin conexión a internet,
 
 ## 🌐 Demo
 
-👉 **[Abrir el Oráculo](https://tuusuario.github.io/oraculo-de-los-arboles)**
+👉 **[Abrir el Oráculo](https://desdelalinea.github.io/oraculo-de-los-arboles)**
 
 ---
 
