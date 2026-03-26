@@ -16,7 +16,7 @@ La aplicación funciona completamente en el navegador, sin conexión a internet,
 
 ## 🌐 Demo
 
-👉 **[Abrir el Oráculo](https://tuusuario.github.io/oraculo-de-los-arboles)**
+👉 **[Abrir el Oráculo](https://desdelalinea.github.io/oraculo-de-los-arboles)**
 
 ---
 
@@ -68,7 +68,7 @@ Visita el enlace de la demo y úsalo directamente en el navegador.
 
 ### Opción 3 — Clonar el repositorio
 ```bash
-git clone https://github.com/tuusuario/oraculo-de-los-arboles.git
+git clone https://github.com/desdelalinea/oraculo-de-los-arboles.git
 cd oraculo-de-los-arboles
 # Abre el archivo HTML en tu navegador
 open oraculo_arboles_v4_multilingual.html
