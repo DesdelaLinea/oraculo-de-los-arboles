@@ -126,8 +126,8 @@ El proyecto nació como una herramienta digital de introspección que honra la b
 
 Este proyecto es de uso libre para fines personales, educativos y espirituales.
 
-Si compartes o adaptas el oráculo, por favor mantén la atribución a los árboles sagrados de Colombia que le dan vida. 🌳
+Si compartes o adaptas el oráculo, por favor mantén la atribución a EL oraculo de los árboles. 🌳
 
 ---
 
-*Hecho con amor por los bosques de Colombia · Que los árboles hablen.*
+@musaparadisia & @n33n0
