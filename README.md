@@ -8,7 +8,7 @@
 
 ## ✨ Descripción
 
-El Oráculo de los Árboles es una experiencia digital de introspección basada en la sabiduría de 64 especies arbóreas sagradas de Colombia. Cada árbol porta un mensaje, un arquetipo, una invitación al autoconocimiento.
+El Oráculo de los Árboles es una experiencia digital de introspección basada en la sabiduría de 64 especies arbóreas sagradas. Cada árbol porta un mensaje, un arquetipo, una invitación al autoconocimiento.
 
 La aplicación funciona completamente en el navegador, sin conexión a internet, sin servidores, sin datos enviados a ningún lado. Es un archivo HTML único que puedes guardar, compartir y usar para siempre.
 
@@ -22,7 +22,7 @@ La aplicación funciona completamente en el navegador, sin conexión a internet,
 
 ## 🃏 Características
 
-- **64 cartas** con imágenes reales de cada árbol sagrado colombiano
+- **64 cartas** con imágenes reales de cada árbol sagrado.
 - **9 idiomas** — Español, English, Português, Français, Deutsch, 中文, 日本語, Русский, हिन्दी
 - **Lecturas de 3 o 5 cartas** con posiciones interpretativas únicas
 - **Animaciones** de mezcla, volteo y revelación de cartas
@@ -116,9 +116,9 @@ cardMsg(id)       → Devuelve el mensaje en el idioma activo
 
 ## 🌱 Origen
 
-Este oráculo está inspirado en la tradición de los oráculos de árboles sagrados de Colombia — una forma ancestral de conectar la naturaleza con el autoconocimiento. Cada árbol es un espejo, cada mensaje una invitación.
+Este oráculo está inspirado en el oráculo de árboles — una forma ancestral de conectar la naturaleza con el autoconocimiento. Cada árbol es un espejo, cada mensaje una invitación.
 
-El proyecto nació como una herramienta digital de introspección que honra la biodiversidad del bosque colombiano y la sabiduría que cada especie encarna.
+El proyecto nació como una herramienta digital de introspección que honra la biodiversidad del bosque y la sabiduría que cada especie encarna.
 
 ---
 
@@ -126,7 +126,7 @@ El proyecto nació como una herramienta digital de introspección que honra la b
 
 Este proyecto es de uso libre para fines personales, educativos y espirituales.
 
-Si compartes o adaptas el oráculo, por favor mantén la atribución a EL oraculo de los árboles. 🌳
+Si compartes o adaptas el oráculo, por favor mantén la atribución a El oraculo de los árboles. 🌳
 
 ---
 
